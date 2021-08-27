@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="label_business_card">Cartão de visita</string>
+    <string name="label_description_new_card">Novo Cartão</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_telefone">Telefone</string>
+    <string name="label_email">Email</string>
+    <string name="label_empresa_nome">Empresa</string>
+    <string name="label_color_card">Color Picker</string>
+    <string name="label_btn_confirmar">Confirmar</string>
+</resources>
